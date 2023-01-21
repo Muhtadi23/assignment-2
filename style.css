@@ -245,6 +245,11 @@ footer p {
     .feature-to-enjoy img{
         height: 550px;
         width: 400px;
+        margin-top: 350px;
+    }
+    .facts{
+        margin-top: 60px;
+        margin-bottom: 60px;
     }
     .acivements{
         display: flex;
